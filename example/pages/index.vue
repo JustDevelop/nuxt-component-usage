@@ -1,6 +1,6 @@
 <template>
   <div>
-    Works!
+    <UsedButton />
   </div>
 </template>
 
