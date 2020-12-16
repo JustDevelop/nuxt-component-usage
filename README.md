@@ -1,4 +1,4 @@
-# {{ name }}
+# nuxt-component-usage
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -6,28 +6,28 @@
 [![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
-> {{ description }}
+> View usage for each component
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
 ## Setup
 
-1. Add `{{ name }}` dependency to your project
+1. Add `nuxt-component-usage` dependency to your project
 
 ```bash
-yarn add {{ name }} # or npm install {{ name }}
+yarn add nuxt-component-usage # or npm install nuxt-component-usage
 ```
 
-2. Add `{{ name }}` to the `modules` section of `nuxt.config.js`
+2. Add `nuxt-component-usage` to the `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
     // Simple usage
-    '{{ name }}',
+    'nuxt-component-usage',
 
     // With options
-    ['{{ name }}', { /* module options */ }]
+    ['nuxt-component-usage', { /* module options */ }]
   ]
 }
 ```
@@ -42,14 +42,14 @@ yarn add {{ name }} # or npm install {{ name }}
 
 [MIT License](./LICENSE)
 
-Copyright (c) {{ author }}
+Copyright (c) Justin Fransen
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/{{ name }}/latest.svg
-[npm-version-href]: https://npmjs.com/package/{{ name }}
+[npm-version-src]: https://img.shields.io/npm/v/nuxt-component-usage/latest.svg
+[npm-version-href]: https://npmjs.com/package/nuxt-component-usage
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/{{ name }}.svg
-[npm-downloads-href]: https://npmjs.com/package/{{ name }}
+[npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-component-usage.svg
+[npm-downloads-href]: https://npmjs.com/package/nuxt-component-usage
 
 [github-actions-ci-src]: https://github.com/{{ github }}/workflows/ci/badge.svg
 [github-actions-ci-href]: https://github.com/{{ github }}/actions?query=workflow%3Aci
@@ -57,5 +57,5 @@ Copyright (c) {{ author }}
 [codecov-src]: https://img.shields.io/codecov/c/github/{{ github }}.svg
 [codecov-href]: https://codecov.io/gh/{{ github }}
 
-[license-src]: https://img.shields.io/npm/l/{{ name }}.svg
-[license-href]: https://npmjs.com/package/{{ name }}
+[license-src]: https://img.shields.io/npm/l/nuxt-component-usage.svg
+[license-href]: https://npmjs.com/package/nuxt-component-usage

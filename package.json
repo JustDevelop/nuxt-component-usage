@@ -1,12 +1,12 @@
 {
-  "name": "{{ name }}",
+  "name": "nuxt-component-usage",
   "version": "0.0.0",
-  "description": "{{ description }}",
+  "description": "View usage for each component",
   "repository": "{{ github }}",
   "license": "MIT",
   "contributors": [
     {
-      "name": "{{ author }}"
+      "name": "Justin Fransen"
     }
   ],
   "files": [
