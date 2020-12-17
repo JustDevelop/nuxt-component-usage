@@ -1,6 +1,7 @@
 <template>
   <div>
     <UsedButton />
+    Works!
   </div>
 </template>
 
