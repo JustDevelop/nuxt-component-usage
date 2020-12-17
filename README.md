@@ -1,3 +1,11 @@
+# Still in development
+
+## Todo
+
+- Optimise name matching --> <A and AA results in 2 matches for component A. Maybe add regex ($ to mark end of line) or check with a space)
+- Refactor some code and write unit tests
+- Add TS support
+
 # nuxt-component-usage
 
 [![npm version][npm-version-src]][npm-version-href]
