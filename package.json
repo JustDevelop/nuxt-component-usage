@@ -2,7 +2,7 @@
   "name": "nuxt-component-usage",
   "version": "0.1.0",
   "description": "View usage for each component",
-  "repository": "{{ github }}",
+  "repository": "JustDevelop/nuxt-component-usage",
   "license": "MIT",
   "contributors": [
     {

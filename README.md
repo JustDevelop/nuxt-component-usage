@@ -59,11 +59,11 @@ Copyright (c) Justin Fransen
 [npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-component-usage.svg
 [npm-downloads-href]: https://npmjs.com/package/nuxt-component-usage
 
-[github-actions-ci-src]: https://github.com/{{ github }}/workflows/ci/badge.svg
-[github-actions-ci-href]: https://github.com/{{ github }}/actions?query=workflow%3Aci
+[github-actions-ci-src]: https://github.com/JustDevelop/nuxt-component-usage/workflows/ci/badge.svg
+[github-actions-ci-href]: https://github.com/JustDevelop/nuxt-component-usage/actions?query=workflow%3Aci
 
-[codecov-src]: https://img.shields.io/codecov/c/github/{{ github }}.svg
-[codecov-href]: https://codecov.io/gh/{{ github }}
+[codecov-src]: https://img.shields.io/codecov/c/github/JustDevelop/nuxt-component-usage.svg
+[codecov-href]: https://codecov.io/gh/JustDevelop/nuxt-component-usage
 
 [license-src]: https://img.shields.io/npm/l/nuxt-component-usage.svg
 [license-href]: https://npmjs.com/package/nuxt-component-usage
